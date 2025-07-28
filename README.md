@@ -1,6 +1,6 @@
 # A Little Way Off 
 
-**A multiplayer Unity game where long-distance couples grow a shared garden virtually.**
+**A multiplayer Unity game where long-distance couples grow a shared garden virtually.**  
 [Playable in browser](https://syangx.itch.io/a-little-way-off)
 
 > This is a work in progress. Currently focused on core gardening mechanics.
